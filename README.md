@@ -5,7 +5,7 @@ This project is a Python-based data analytics capstone that demonstrates the abi
 
 The project shows practical skills in data preprocessing and programmatically building a workflow from raw input to clean and meaningful output.
 
-🎯 Objectives
+# 🎯 Objectives
 
 Create and manage DataFrames programmatically
 
@@ -21,10 +21,11 @@ Conduct descriptive analysis to extract insights
 
 Automate the end-to-end data processing workflow
 
-Technologies & Libraries Library	Purpose :
+# Technologies & Libraries Library	Purpose :
 Pandas(Data manipulation and analysis),
 NumPy(Mathematical operations & array processing)
 Python(Core programming language)
 
-Tasks covered in the notebook : Create DataFrames manually, Save and read CSV files, Format and clean data types, Filter and sort records based on conditions, Apply aggregate functions (sum, mean, min, max), Group dataset by categorical fields, Merge multiple DataFrames using keys, Generate structured final reports
+# Tasks covered in the notebook : 
+Create DataFrames manually, Save and read CSV files, Format and clean data types, Filter and sort records based on conditions, Apply aggregate functions (sum, mean, min, max), Group dataset by categorical fields, Merge multiple DataFrames using keys, Generate structured final reports
 
