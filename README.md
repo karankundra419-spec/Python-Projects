@@ -21,26 +21,12 @@ Conduct descriptive analysis to extract insights
 
 Automate the end-to-end data processing workflow
 
-🛠️ Technologies & Libraries Library	Purpose :
+Technologies & Libraries Library	Purpose :
 Pandas(Data manipulation and analysis),
 NumPy(Mathematical operations & array processing)
 Python(Core programming language)
 
-Tasks covered in the notebook :
-
-Create DataFrames manually
-
-Save and read CSV files
-
-Format and clean data types
-
-Filter and sort records based on conditions
-
-Apply aggregate functions (sum, mean, min, max)
-
-Group dataset by categorical fields
-
-Merge multiple DataFrames using keys
+Tasks covered in the notebook : Create DataFrames manually, Save and read CSV files, Format and clean data types, Filter and sort records based on conditions, Apply aggregate functions (sum, mean, min, max), Group dataset by categorical fields, Merge multiple DataFrames using keys
 
 Generate structured final reports
 
